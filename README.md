@@ -1,16 +1,14 @@
-# bmi_calculator
+# BMI Calculator
+A BMI Calculator which takes your height and weight and tells you about your health i.e. Body Mass Index.
 
-A new Flutter project.
+## Details
 
-## Getting Started
+```bash
+  ➞ Find out your BMI.
+  ➞ It can help assess risk factors for certain health conditions.
+  ➞ Keep track of your BMI if you are watching your health.
+  ```
+    
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/bilalahmedmirza/BMI-Calculator/blob/master/PHOTOS/1.png" width="350" height="510"> <img src="https://github.com/bilalahmedmirza/BMI-Calculator/blob/master/PHOTOS/2.png" width="350" height="510">
